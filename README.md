@@ -1,1 +1,1 @@
-# googledatastudio-practice
+# Google Data Studio Projects
