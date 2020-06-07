@@ -1,4 +1,4 @@
-# Google Data Studio Projects
+# Google Data Studio Practice Projects
 
 **PDF Version Report:**
 * [Sales Report](https://github.com/phphoebe/googledatastudio-practice/tree/master/1.Sales%20Report)
@@ -11,6 +11,5 @@
 Both reports contain **multiple pages**. Click the left/right arrow at the top-left corner to switch between pages:
 ![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Multiple%20Pages.PNG)
 
-## WHY Data Studio?
 
 ## Key Takeaways
