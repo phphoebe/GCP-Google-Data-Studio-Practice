@@ -1,7 +1,7 @@
 # Google Data Studio Projects
 
 PDF Version Report:
-* [Sales Report](https://github.com/phphoebe/googledatastudio-practice/tree/master/Sales%20Report)
+* [Sales Report](https://github.com/phphoebe/googledatastudio-practice/tree/master/1.Sales%20Report)
 * [Digital Perforamnce Report](https://github.com/phphoebe/googledatastudio-practice/tree/master/Digital%20Performance%20Report)
 
 Data Studio Report Link:
