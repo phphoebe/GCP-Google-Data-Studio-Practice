@@ -19,3 +19,4 @@
 The Sales Report project is part of the [Build Insightful Dashboards with Google Data Studio](https://www.udemy.com/course/build-interactive-dashboards-and-reports-with-google-data-studio/) course taught by Annabel Lyle (Data Analyst - Data Studio & Google Analytics).
 
 The Digital Performance Report project is part of the [Dynamic Dashboards and Data Analysis with Google Data Studio](https://www.udemy.com/course/dynamic-dashboards-and-data-analysis-with-google-data-studio/) course taught by Lachezar Arabadzhiev (Performance Analytics and Visualization Professional) working at Initiative. 
+
