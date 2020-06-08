@@ -63,13 +63,11 @@ Switch to View Mode, it shows that Google Merchandise Store has so far made $21B
 ![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Custom%20Dimensions%20(CASE%2BIN).PNG)
 
 ### **8. Custom Dimensions with CASE + REGEXP_MATCH**
-* Utilize **SQL CASE Statement** and **Regular Expressions (Regex)** to create a new custom dimension Type to label language version for each campaign. 
+* Utilize **SQL CASE Statement** and **Regular Expressions (Regex)** to create a new custom dimension (Type) to label the language version for each campaign. 
 ![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Custom%20Dimensions%20(CASE%20%2B%20REGEXP_MATCH).PNG)
 
 ### **9. Conditional Formatting for Report Customization and easier Navigation**
 ![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Conditional%20Formatting.PNG)
-![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Conditional%20Formatting%202.PNG)
-
 
 
 ### Acknowledgement 
