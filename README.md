@@ -32,7 +32,7 @@
 
 * Show Revenue (metric) by Week of Year (dimension) since the beginning of the year (custom date range: Jan 1 2020 – Dec 31 2020) with Year on Year (YoY) Comparison (comparison date range: Previous Year).
 * Style Set: show Cumulative series with Data Points on charts. 
-Switch to View Mode, it shows that Google Merchandise Store has so far made $21B in revenue. 
+Switch to View Mode, it shows that Google Merchandise Store has so far made nearly $22B in revenue. 
 
 ![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Cummulative%20Revenue.png)
 
