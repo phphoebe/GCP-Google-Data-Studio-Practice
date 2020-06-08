@@ -13,7 +13,7 @@
 ![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Multiple%20Pages.PNG)
 
 
- ## :sparkles: Key Takeaways :sparkles: 
+ ## Key Takeaways 
 
 ### **1. KPI Scorecards for key Summary Statistics and Comparisons**
 * Search and Choose metrics available directly from data source. 
