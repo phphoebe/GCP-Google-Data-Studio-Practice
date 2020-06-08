@@ -49,9 +49,7 @@ Switch to View Mode, it shows that Google Merchandise Store has so far made $21B
 ### **5. Filtering by Dimensions**
 * Add Dynamic Data Filter to show and filter data by dimensions (e.g. *Campaign* or *Country*) based on reporting needs.
 * Search Box available for direct type in to search for specific values. 
-![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Dynamic%20Data%20Filter%20(date%20range%20%2B%20dimension).PNG)
-
-![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Filtering%20by%20Dimension.PNG)
+![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Filters%20by%20Dimension.PNG)
 
 ### **6. Calculated Metrics with Formulas (Custom Metrics)**
 * CTR = Clicks/Impressions (Data Type: percent; Aggregation Level: AVG)
