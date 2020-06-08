@@ -66,6 +66,7 @@ Switch to View Mode, it shows that Google Merchandise Store has so far made $21B
 
 ### **9. Conditional Formatting for Report Customization and easier Navigation**
 ![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Conditional%20Formatting.PNG)
+![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Conditional%20Formatting%202.PNG)
 
 
 ### Acknowledgement 
