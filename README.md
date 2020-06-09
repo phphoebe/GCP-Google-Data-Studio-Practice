@@ -68,6 +68,15 @@ Switch to View Mode, it shows that Google Merchandise Store has so far made near
 ![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Conditional%20Formatting.PNG)
 ![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Conditional%20Formatting%202.PNG)
 
+### Happy Analyzing 
+Data Studio has many more powerful features, such as:
+* Connect to Google BigQuery to transform and manipulate data and visualize the output in Data Studio
+* Extract color from an Image/URL to build reports with custom brand colors
+* Add Hyperlinks and Clickable Images into Data Tables to better showcase products 
+* Embedding your reports in a blog or a website
+* Data Transformation with a range of functions: CONCAT, TRIM, UPPER, LOWER, SUBSTR, etc.
+
+I'll keep practicing and working on new projects :octocat:
 
 ### Acknowledgement 
 The Sales Report project is part of the [Build Insightful Dashboards with Google Data Studio](https://www.udemy.com/course/build-interactive-dashboards-and-reports-with-google-data-studio/) course taught by Annabel Lyle (Data Analyst - Data Studio & Google Analytics). The data used is Sample Google Analytics data.
