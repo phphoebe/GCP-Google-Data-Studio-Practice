@@ -2,7 +2,7 @@
 
 ### **PDF Version Report:**
 * [Sales Report](https://github.com/phphoebe/googledatastudio-practice/tree/master/1.Sales%20Report)
-* [Digital Perforamnce Report](https://github.com/phphoebe/googledatastudio-practice/tree/master/2.Digital%20Performance%20Report)
+* [Digital Performance Report](https://github.com/phphoebe/googledatastudio-practice/tree/master/2.Digital%20Performance%20Report)
 
 ### **Interactive Data Studio Report Link** 
 :octocat: *Please right click "open link in new tab/window":*
