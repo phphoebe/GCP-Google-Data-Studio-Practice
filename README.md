@@ -49,22 +49,27 @@ Switch to View Mode, it shows that Google Merchandise Store has so far made near
 ### **5. Filtering by Dimensions**
 * Add Dynamic Data Filter to show and filter data by dimensions (e.g. *Campaign* or *Country*) based on reporting needs.
 * Search Box available for direct type in to search for specific values. 
+
 ![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Filters%20by%20Dimension.PNG)
 
 ### **6. Calculated Metrics with Formulas (Custom Metrics)**
 * CTR = Clicks/Impressions (Data Type: percent; Aggregation Level: AVG)
 * CPA = Media Spend/Total Conversions (Data Type: Currency) 
+
 ![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Calculated%20Fields%20(custom%20metrics).png)
 
 ### **7. Custom Dimensions with CASE + IN**
 * Utilize **SQL CASE Statement and IN Operator** to create a custom dimension (Language) in order to demonstrate campaign metrics for different language versions. 
+
 ![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Custom%20Dimensions%20(CASE%2BIN).PNG)
 
 ### **8. Custom Dimensions with CASE + REGEXP_MATCH**
 * Utilize **SQL CASE Statement** and **Regular Expressions (Regex)** to create a new custom dimension (Type) to label the language version for each campaign. 
+
 ![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Custom%20Dimensions%20(CASE%20%2B%20REGEXP_MATCH).PNG)
 
 ### **9. Conditional Formatting for Report Customization and easier Navigation**
+
 ![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Conditional%20Formatting.PNG)
 ![](https://github.com/phphoebe/googledatastudio-practice/blob/master/Images/Conditional%20Formatting%202.PNG)
 
